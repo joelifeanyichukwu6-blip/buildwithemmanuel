@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://buildwithemmanuel.vercel.app/sitemap.xml
+Sitemap: https://buildwithemmanuel-beta.vercel.app/sitemap.xml
